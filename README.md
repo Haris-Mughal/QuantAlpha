@@ -4,7 +4,7 @@ AI-powered portfolio management with real-time market analysis using Python anal
 
 ## 👥 Our Team
 
-| <img src="https://github.com/haris-mughal.png" width="100"/> <br> Haris Mughal | <img src="https://github.com/dojian.png" width="100"/> <br> An Jian | <img src="https://github.com/Hamzacancode.png" width="100"/> <br> Hamza Imran | <img src="https://github.com/Talhaasif7.png" width="100"/> <br> Talha Asif | <img src="https://github.com/arslansaeed.png" width="100"/> <br> Arslan Saeed | <img src="https://github.com/jps245.png" width="100"/> <br> Justin Sterling |
+| <a href="https://github.com/haris-mughal"><img src="https://github.com/haris-mughal.png" width="100"/><br>Haris Mughal</a> | <a href="https://github.com/dojian"><img src="https://github.com/dojian.png" width="100"/><br>An Jian</a> | <a href="https://github.com/Hamzacancode"><img src="https://github.com/Hamzacancode.png" width="100"/><br>Hamza Imran</a> | <a href="https://github.com/Talhaasif7"><img src="https://github.com/Talhaasif7.png" width="100"/><br>Talha Asif</a> | <a href="https://github.com/arslansaeed"><img src="https://github.com/arslansaeed.png" width="100"/><br>Arslan Saeed</a> | <a href="https://github.com/jps245"><img src="https://github.com/jps245.png" width="100"/><br>Justin Sterling</a> |
 |---|---|---|---|---|---|
 
 
